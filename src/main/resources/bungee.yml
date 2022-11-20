@@ -1,0 +1,3 @@
+name: SQLPlaytimeTracker-Bungee-1.12.2
+version: '${project.version}'
+main: ca.sperrer.basmc.sqlplaytimetracker.SQLPlaytimeTracker
